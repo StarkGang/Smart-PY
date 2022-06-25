@@ -1,1 +1,1 @@
-bot: ./begin.x
+bot: ./begin.sh.x
