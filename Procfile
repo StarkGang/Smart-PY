@@ -1,1 +1,1 @@
-userbot: bash run
+bot: ./begin.x
