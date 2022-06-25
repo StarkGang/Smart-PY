@@ -1,1 +1,1 @@
-bot: ./begin.sh.x
+bot: bash st.sh
