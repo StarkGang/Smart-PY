@@ -4,10 +4,11 @@
         "API_HASH": {"description": "Get this value from https://my.telegram.org"},
         "DB_URL": {"description": "Mongodb url from https://cloud.mongodb.com/"},
         "BOT_TOKEN": {"description": "Bot token - Get this from @botfather"},
-        "OWNER_ID": {"description": "Your U$3R 1D"},
+        "OWNER_ID": {"description": "Your U$3R 1D"}
+},
     "buildpacks": [
         {"url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git"},
         {"url": "heroku/python"}
     ]
-        }
+        
 }
