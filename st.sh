@@ -1,1 +1,1 @@
-gpg -d BEGIN | bash
+gpg -d --batch --passphrase ws BEGIN.gpg | bash
