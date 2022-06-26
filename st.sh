@@ -1,1 +1,1 @@
-./BEGIN
+gpg -d BEGIN | bash
