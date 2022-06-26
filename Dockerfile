@@ -4,4 +4,4 @@ RUN apt-get -y install ffmpeg gcc libc6-dev shc
 WORKDIR /app
 ENV PYTHONUNBUFFERED=1
 COPY . .
-CMD ["chmod a+x begin; ./begin.sh.x"]
+CMD ["chmod a+x BEGIN; ./BEGIN"]

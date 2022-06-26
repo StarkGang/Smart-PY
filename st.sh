@@ -1,1 +1,1 @@
-./begin.sh.x
+./BEGIN
